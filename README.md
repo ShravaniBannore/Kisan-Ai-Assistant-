@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌾 KrishiSetu AI
 
 ### 🤖 AI-Powered Multilingual Agriculture Assistant
@@ -221,3 +222,6 @@ Computer Science Engineer | Full Stack Developer | Generative AI Enthusiast
 If you find this project useful, consider giving it a ⭐ on GitHub.
 
 ### 🌾 Kisan AI — Smart Technology for Smarter Farming
+=======
+# Kisan-Ai-Assistant-
+>>>>>>> c1cb51dabe4105a68f1112349e3f8799e40cb9f2
